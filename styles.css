@@ -12,11 +12,35 @@ body{
 
 }
 
+#pad{
+    padding-top: 15%;
+}
+
 h1{
     font-family: Outfit;
-    font-size: 15px;
+    font-size: 20px;
+    text-align: center;
 }
 
 p{
     font-family: Outfit;
+    color: hsl(220, 15%, 55%);
+    text-align: center;
+}
+
+#box{
+    background: #ffffff;
+    border-radius: 18px;
+    margin: auto;
+    padding: 18px;
+    width: 250px;
+    height: 400px;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+    
+}
+
+img{
+    border-radius: 18px;
+    width: 255px;
+    height: 255px;
 }
